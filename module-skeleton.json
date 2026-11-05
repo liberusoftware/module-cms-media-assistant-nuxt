@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-media-assistant-nuxt",
+  "capabilityKey": "planned:cms:media-assistant",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-cms-media-assistant-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/cms/nextjs/media-assistant.md",
+  "presentationPlan": "projects/cms/nuxt/media-assistant.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
